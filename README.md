@@ -35,7 +35,7 @@ Easy! With this bot, you'll always be ready for any weather — rain, sunshine, 
 /start	Start the bot, information about its features
 /weather	4-Day weather forecast.
 # 🖼️ Screenshots
-![Screenshots](Screenshots/Screenshot 2024-09-24 231549.png)
+![Screenshots](forecastweather/Screenshots/Screenshot 2024-09-24 231549.png)
 
 - Here’s what our bot looks like in action:
 
